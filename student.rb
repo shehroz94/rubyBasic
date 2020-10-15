@@ -19,7 +19,6 @@ end
 Shehroz = Student.new("Muhammad","Shehroz","shehroz@gmail.com","shehroz94","asd")
 
 Ramish = Student.new("Ramish","Siddiqui","ramishs@yahoo.com","rsiddiqui","1542")
-this is new lie
 
 
 
